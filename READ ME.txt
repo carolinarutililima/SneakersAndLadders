@@ -1,0 +1,13 @@
+____________________________________
+
+Hello, 
+
+To used this algorith you need to download some python packges as random, numpy, and gym. 
+
+There are 3 versions, 0, 1 and 2. Each one has the value interarion and q learning algorithm. To run the
+algorithm you just need to choose how many spots, and change de size of V, Q and Eligibility matrix, for example, 
+100 spots it's necessary to change to 101, 200 to 201, ... And on the environment chance the grid size, 
+if you want to use 100 spots, put 1 on the size on the environmet.
+ 
+
+
